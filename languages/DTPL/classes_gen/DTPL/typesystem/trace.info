@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info>
+  <concept fqn="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.ForeachStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.IfStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.Statement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+  <root>
+    <file name="TypesystemDescriptor.java">
+      <unit at="8,0,32,0" name="DTPL.typesystem.TypesystemDescriptor" />
+    </file>
+  </root>
+  <root nodeRef="r:20c5195e-19a6-4b26-9fce-472e3335fbcc(DTPL.typesystem)/1590574671094032051">
+    <file name="check_Dijagram_NonTypesystemRule.java">
+      <node id="1590574671094360400" at="24,5,25,63" concept="6" />
+      <node id="1590574671094362134" at="26,169,27,33" concept="6" />
+      <node id="1590574671094372949" at="30,696,31,33" concept="2" />
+      <node id="1590574671094457302" at="33,11,34,0" concept="8" />
+      <node id="1590574671094373496" at="35,9,36,0" concept="8" />
+      <node id="1590574671094374629" at="38,11,39,64" concept="6" />
+      <node id="1590574671094374629" at="39,64,40,212" concept="6" />
+      <node id="1590574671094032051" at="46,50,47,130" concept="7" />
+      <node id="1590574671094032051" at="49,68,50,102" concept="0" />
+      <node id="1590574671094032051" at="49,68,50,102" concept="7" />
+      <node id="1590574671094032051" at="52,30,53,17" concept="7" />
+      <node id="1590574671094368507" at="55,55,56,43" concept="7" />
+      <node id="1590574671094032051" at="21,0,23,0" concept="1" trace="check_Dijagram_NonTypesystemRule#()V" />
+      <node id="1590574671094368660" at="29,572,32,13" concept="4" />
+      <node id="1590574671094032051" at="46,0,49,0" concept="5" trace="getApplicableConcept#()Lorg/jetbrains/mps/openapi/language/SAbstractConcept;" />
+      <node id="1590574671094032051" at="49,0,52,0" concept="5" trace="isApplicableAndPattern#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljetbrains/mps/lang/typesystem/runtime/IsApplicableStatus;" />
+      <node id="1590574671094032051" at="52,0,55,0" concept="5" trace="overrides#()Z" />
+      <node id="1590574671094368507" at="55,0,58,0" concept="9" trace="isNotEmptyString#(Ljava/lang/String;)Z" />
+      <node id="1590574671094374629" at="37,35,41,11" concept="0" />
+      <node id="1590574671094363033" at="28,244,33,11" concept="4" />
+      <node id="1590574671094373845" at="36,0,42,9" concept="4" />
+      <node id="1590574671094362384" at="27,33,35,9" concept="3" />
+      <node id="1590574671094360400" at="25,63,43,7" concept="4" />
+      <node id="1590574671094360400" at="23,121,44,5" concept="0" />
+      <node id="1590574671094032051" at="23,0,46,0" concept="5" trace="applyRule#(Lorg/jetbrains/mps/openapi/model/SNode;Ljetbrains/mps/typesystem/inference/TypeCheckingContext;Ljetbrains/mps/lang/typesystem/runtime/IsApplicableStatus;)V" />
+      <scope id="1590574671094032051" at="21,45,21,45" />
+      <scope id="1590574671094368661" at="30,696,31,33" />
+      <scope id="1590574671094032051" at="46,50,47,130" />
+      <scope id="1590574671094032051" at="49,68,50,102" />
+      <scope id="1590574671094032051" at="52,30,53,17" />
+      <scope id="1590574671094368507" at="55,55,56,43" />
+      <scope id="1590574671094032051" at="21,0,23,0" />
+      <scope id="1590574671094374629" at="38,11,40,212">
+        <var name="_reporter_2309309498" id="1590574671094374629" />
+        <var name="errorTarget" id="1590574671094374629" />
+      </scope>
+      <scope id="1590574671094363034" at="29,572,32,13" />
+      <scope id="1590574671094032051" at="46,0,49,0" />
+      <scope id="1590574671094032051" at="49,0,52,0">
+        <var name="argument" id="1590574671094032051" />
+      </scope>
+      <scope id="1590574671094032051" at="52,0,55,0" />
+      <scope id="1590574671094368507" at="55,0,58,0">
+        <var name="str" id="1590574671094368507" />
+      </scope>
+      <scope id="1590574671094373847" at="37,35,41,11" />
+      <scope id="1590574671094362388" at="28,244,34,0" />
+      <scope id="1590574671094362384" at="27,33,35,9">
+        <var name="node_dkp" id="1590574671094362386" />
+      </scope>
+      <scope id="1590574671094360404" at="26,169,42,9">
+        <var name="broj_ponavljanja" id="1590574671094362137" />
+      </scope>
+      <scope id="1590574671094360400" at="24,5,43,7">
+        <var name="node_d" id="1590574671094360400" />
+      </scope>
+      <scope id="1590574671094032052" at="23,121,44,5" />
+      <scope id="1590574671094032051" at="23,0,46,0">
+        <var name="dijagram" id="1590574671094032051" />
+        <var name="status" id="1590574671094032051" />
+        <var name="typeCheckingContext" id="1590574671094032051" />
+      </scope>
+      <unit id="1590574671094032051" at="20,0,59,0" name="DTPL.typesystem.check_Dijagram_NonTypesystemRule" />
+    </file>
+  </root>
+  <root nodeRef="r:20c5195e-19a6-4b26-9fce-472e3335fbcc(DTPL.typesystem)/3195928371521772992">
+    <file name="check_DijagramKonteksta_NonTypesystemRule.java">
+      <node id="3195928371521772992" at="18,50,19,139" concept="7" />
+      <node id="3195928371521772992" at="21,68,22,102" concept="0" />
+      <node id="3195928371521772992" at="21,68,22,102" concept="7" />
+      <node id="3195928371521772992" at="24,30,25,17" concept="7" />
+      <node id="3195928371521772992" at="14,0,16,0" concept="1" trace="check_DijagramKonteksta_NonTypesystemRule#()V" />
+      <node id="3195928371521772992" at="16,0,18,0" concept="5" trace="applyRule#(Lorg/jetbrains/mps/openapi/model/SNode;Ljetbrains/mps/typesystem/inference/TypeCheckingContext;Ljetbrains/mps/lang/typesystem/runtime/IsApplicableStatus;)V" />
+      <node id="3195928371521772992" at="18,0,21,0" concept="5" trace="getApplicableConcept#()Lorg/jetbrains/mps/openapi/language/SAbstractConcept;" />
+      <node id="3195928371521772992" at="21,0,24,0" concept="5" trace="isApplicableAndPattern#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljetbrains/mps/lang/typesystem/runtime/IsApplicableStatus;" />
+      <node id="3195928371521772992" at="24,0,27,0" concept="5" trace="overrides#()Z" />
+      <scope id="3195928371521772992" at="14,54,14,54" />
+      <scope id="3195928371521772993" at="16,130,16,130" />
+      <scope id="3195928371521772992" at="18,50,19,139" />
+      <scope id="3195928371521772992" at="21,68,22,102" />
+      <scope id="3195928371521772992" at="24,30,25,17" />
+      <scope id="3195928371521772992" at="14,0,16,0" />
+      <scope id="3195928371521772992" at="16,0,18,0">
+        <var name="dijagramKonteksta" id="3195928371521772992" />
+        <var name="status" id="3195928371521772992" />
+        <var name="typeCheckingContext" id="3195928371521772992" />
+      </scope>
+      <scope id="3195928371521772992" at="18,0,21,0" />
+      <scope id="3195928371521772992" at="21,0,24,0">
+        <var name="argument" id="3195928371521772992" />
+      </scope>
+      <scope id="3195928371521772992" at="24,0,27,0" />
+      <unit id="3195928371521772992" at="13,0,28,0" name="DTPL.typesystem.check_DijagramKonteksta_NonTypesystemRule" />
+    </file>
+  </root>
+  <root nodeRef="r:20c5195e-19a6-4b26-9fce-472e3335fbcc(DTPL.typesystem)/3195928371522825286">
+    <file name="check_InterfejsRefTokRefProcesRef_NonTypesystemRule.java">
+      <node id="3195928371522825297" at="22,140,23,86" concept="6" />
+      <node id="3195928371522898863" at="23,86,24,29" concept="6" />
+      <node id="3195928371522899031" at="27,686,28,50" concept="2" />
+      <node id="3195928371522857326" at="33,7,34,60" concept="6" />
+      <node id="3195928371522857326" at="34,60,35,248" concept="6" />
+      <node id="3195928371522900054" at="37,5,38,0" concept="8" />
+      <node id="3195928371522825286" at="40,50,41,149" concept="7" />
+      <node id="3195928371522825286" at="43,68,44,102" concept="0" />
+      <node id="3195928371522825286" at="43,68,44,102" concept="7" />
+      <node id="3195928371522825286" at="46,30,47,17" concept="7" />
+      <node id="3195928371524027845" at="49,55,50,43" concept="7" />
+      <node id="3195928371522825286" at="20,0,22,0" concept="1" trace="check_InterfejsRefTokRefProcesRef_NonTypesystemRule#()V" />
+      <node id="3195928371522844738" at="26,546,29,9" concept="4" />
+      <node id="3195928371522825286" at="40,0,43,0" concept="5" trace="getApplicableConcept#()Lorg/jetbrains/mps/openapi/language/SAbstractConcept;" />
+      <node id="3195928371522825286" at="43,0,46,0" concept="5" trace="isApplicableAndPattern#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljetbrains/mps/lang/typesystem/runtime/IsApplicableStatus;" />
+      <node id="3195928371522825286" at="46,0,49,0" concept="5" trace="overrides#()Z" />
+      <node id="3195928371524027845" at="49,0,52,0" concept="9" trace="isNotEmptyString#(Ljava/lang/String;)Z" />
+      <node id="3195928371522857326" at="32,31,36,7" concept="0" />
+      <node id="3195928371524023808" at="25,229,30,7" concept="4" />
+      <node id="3195928371522846121" at="31,5,37,5" concept="4" />
+      <node id="3195928371522826106" at="24,29,31,5" concept="3" />
+      <node id="3195928371522825286" at="22,0,40,0" concept="5" trace="applyRule#(Lorg/jetbrains/mps/openapi/model/SNode;Ljetbrains/mps/typesystem/inference/TypeCheckingContext;Ljetbrains/mps/lang/typesystem/runtime/IsApplicableStatus;)V" />
+      <scope id="3195928371522825286" at="20,64,20,64" />
+      <scope id="3195928371522844740" at="27,686,28,50" />
+      <scope id="3195928371522825286" at="40,50,41,149" />
+      <scope id="3195928371522825286" at="43,68,44,102" />
+      <scope id="3195928371522825286" at="46,30,47,17" />
+      <scope id="3195928371524027845" at="49,55,50,43" />
+      <scope id="3195928371522825286" at="20,0,22,0" />
+      <scope id="3195928371522857326" at="33,7,35,248">
+        <var name="_reporter_2309309498" id="3195928371522857326" />
+        <var name="errorTarget" id="3195928371522857326" />
+      </scope>
+      <scope id="3195928371524023810" at="26,546,29,9" />
+      <scope id="3195928371522825286" at="40,0,43,0" />
+      <scope id="3195928371522825286" at="43,0,46,0">
+        <var name="argument" id="3195928371522825286" />
+      </scope>
+      <scope id="3195928371522825286" at="46,0,49,0" />
+      <scope id="3195928371524027845" at="49,0,52,0">
+        <var name="str" id="3195928371524027845" />
+      </scope>
+      <scope id="3195928371522846123" at="32,31,36,7" />
+      <scope id="3195928371522826108" at="25,229,30,7" />
+      <scope id="3195928371522826106" at="24,29,31,5">
+        <var name="node_irtrpr" id="3195928371522826109" />
+      </scope>
+      <scope id="3195928371522825287" at="22,140,38,0">
+        <var name="br_pojavljivanja" id="3195928371522898866" />
+        <var name="node_dtpep" id="3195928371522825300" />
+      </scope>
+      <scope id="3195928371522825286" at="22,0,40,0">
+        <var name="interfejsRefTokRefProcesRef" id="3195928371522825286" />
+        <var name="status" id="3195928371522825286" />
+        <var name="typeCheckingContext" id="3195928371522825286" />
+      </scope>
+      <unit id="3195928371522825286" at="19,0,53,0" name="DTPL.typesystem.check_InterfejsRefTokRefProcesRef_NonTypesystemRule" />
+    </file>
+  </root>
+  <root nodeRef="r:20c5195e-19a6-4b26-9fce-472e3335fbcc(DTPL.typesystem)/3195928371523214199">
+    <file name="check_DTPElementInterfejsTokProces_NonTypesystemRule.java">
+      <node id="3195928371523214207" at="22,141,23,84" concept="6" />
+      <node id="3195928371523218793" at="23,84,24,29" concept="6" />
+      <node id="3195928371523229638" at="27,678,28,50" concept="2" />
+      <node id="3195928371523246788" at="33,7,34,60" concept="6" />
+      <node id="3195928371523246788" at="34,60,35,238" concept="6" />
+      <node id="3195928371523214199" at="39,50,40,150" concept="7" />
+      <node id="3195928371523214199" at="42,68,43,102" concept="0" />
+      <node id="3195928371523214199" at="42,68,43,102" concept="7" />
+      <node id="3195928371523214199" at="45,30,46,17" concept="7" />
+      <node id="3195928371523372285" at="48,55,49,43" concept="7" />
+      <node id="3195928371523214199" at="20,0,22,0" concept="1" trace="check_DTPElementInterfejsTokProces_NonTypesystemRule#()V" />
+      <node id="3195928371523218871" at="26,350,29,9" concept="4" />
+      <node id="3195928371523214199" at="39,0,42,0" concept="5" trace="getApplicableConcept#()Lorg/jetbrains/mps/openapi/language/SAbstractConcept;" />
+      <node id="3195928371523214199" at="42,0,45,0" concept="5" trace="isApplicableAndPattern#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljetbrains/mps/lang/typesystem/runtime/IsApplicableStatus;" />
+      <node id="3195928371523214199" at="45,0,48,0" concept="5" trace="overrides#()Z" />
+      <node id="3195928371523372285" at="48,0,51,0" concept="9" trace="isNotEmptyString#(Ljava/lang/String;)Z" />
+      <node id="3195928371523246788" at="32,31,36,7" concept="0" />
+      <node id="3195928371523332177" at="25,220,30,7" concept="4" />
+      <node id="3195928371523230779" at="31,5,37,5" concept="4" />
+      <node id="3195928371523214986" at="24,29,31,5" concept="3" />
+      <node id="3195928371523214199" at="22,0,39,0" concept="5" trace="applyRule#(Lorg/jetbrains/mps/openapi/model/SNode;Ljetbrains/mps/typesystem/inference/TypeCheckingContext;Ljetbrains/mps/lang/typesystem/runtime/IsApplicableStatus;)V" />
+      <scope id="3195928371523214199" at="20,65,20,65" />
+      <scope id="3195928371523218873" at="27,678,28,50" />
+      <scope id="3195928371523214199" at="39,50,40,150" />
+      <scope id="3195928371523214199" at="42,68,43,102" />
+      <scope id="3195928371523214199" at="45,30,46,17" />
+      <scope id="3195928371523372285" at="48,55,49,43" />
+      <scope id="3195928371523214199" at="20,0,22,0" />
+      <scope id="3195928371523246788" at="33,7,35,238">
+        <var name="_reporter_2309309498" id="3195928371523246788" />
+        <var name="errorTarget" id="3195928371523246788" />
+      </scope>
+      <scope id="3195928371523332179" at="26,350,29,9" />
+      <scope id="3195928371523214199" at="39,0,42,0" />
+      <scope id="3195928371523214199" at="42,0,45,0">
+        <var name="argument" id="3195928371523214199" />
+      </scope>
+      <scope id="3195928371523214199" at="45,0,48,0" />
+      <scope id="3195928371523372285" at="48,0,51,0">
+        <var name="str" id="3195928371523372285" />
+      </scope>
+      <scope id="3195928371523230781" at="32,31,36,7" />
+      <scope id="3195928371523214988" at="25,220,30,7" />
+      <scope id="3195928371523214986" at="24,29,31,5">
+        <var name="node_dtpeitp" id="3195928371523214989" />
+      </scope>
+      <scope id="3195928371523214200" at="22,141,37,5">
+        <var name="broj_ponavljanja" id="3195928371523218796" />
+        <var name="node_dk" id="3195928371523214210" />
+      </scope>
+      <scope id="3195928371523214199" at="22,0,39,0">
+        <var name="dtpElementInterfejsTokProces" id="3195928371523214199" />
+        <var name="status" id="3195928371523214199" />
+        <var name="typeCheckingContext" id="3195928371523214199" />
+      </scope>
+      <unit id="3195928371523214199" at="19,0,52,0" name="DTPL.typesystem.check_DTPElementInterfejsTokProces_NonTypesystemRule" />
+    </file>
+  </root>
+  <root nodeRef="r:20c5195e-19a6-4b26-9fce-472e3335fbcc(DTPL.typesystem)/3195928371523491037">
+    <file name="check_InterfejsTokProces_NonTypesystemRule.java">
+      <node id="3195928371523491053" at="22,131,23,74" concept="6" />
+      <node id="3195928371523506937" at="23,74,24,19" concept="6" />
+      <node id="3195928371523519596" at="27,668,28,30" concept="2" />
+      <node id="3195928371523524953" at="33,7,34,60" concept="6" />
+      <node id="3195928371523524953" at="34,60,35,247" concept="6" />
+      <node id="3195928371523491037" at="39,50,40,140" concept="7" />
+      <node id="3195928371523491037" at="42,68,43,102" concept="0" />
+      <node id="3195928371523491037" at="42,68,43,102" concept="7" />
+      <node id="3195928371523491037" at="45,30,46,17" concept="7" />
+      <node id="3195928371523721896" at="48,55,49,43" concept="7" />
+      <node id="3195928371523491037" at="20,0,22,0" concept="1" trace="check_InterfejsTokProces_NonTypesystemRule#()V" />
+      <node id="3195928371523506999" at="26,534,29,9" concept="4" />
+      <node id="3195928371523491037" at="39,0,42,0" concept="5" trace="getApplicableConcept#()Lorg/jetbrains/mps/openapi/language/SAbstractConcept;" />
+      <node id="3195928371523491037" at="42,0,45,0" concept="5" trace="isApplicableAndPattern#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljetbrains/mps/lang/typesystem/runtime/IsApplicableStatus;" />
+      <node id="3195928371523491037" at="45,0,48,0" concept="5" trace="overrides#()Z" />
+      <node id="3195928371523721896" at="48,0,51,0" concept="9" trace="isNotEmptyString#(Ljava/lang/String;)Z" />
+      <node id="3195928371523524953" at="32,21,36,7" concept="0" />
+      <node id="3195928371523564481" at="25,223,30,7" concept="4" />
+      <node id="3195928371523522560" at="31,5,37,5" concept="4" />
+      <node id="3195928371523492339" at="24,19,31,5" concept="3" />
+      <node id="3195928371523491037" at="22,0,39,0" concept="5" trace="applyRule#(Lorg/jetbrains/mps/openapi/model/SNode;Ljetbrains/mps/typesystem/inference/TypeCheckingContext;Ljetbrains/mps/lang/typesystem/runtime/IsApplicableStatus;)V" />
+      <scope id="3195928371523491037" at="20,55,20,55" />
+      <scope id="3195928371523507001" at="27,668,28,30" />
+      <scope id="3195928371523491037" at="39,50,40,140" />
+      <scope id="3195928371523491037" at="42,68,43,102" />
+      <scope id="3195928371523491037" at="45,30,46,17" />
+      <scope id="3195928371523721896" at="48,55,49,43" />
+      <scope id="3195928371523491037" at="20,0,22,0" />
+      <scope id="3195928371523524953" at="33,7,35,247">
+        <var name="_reporter_2309309498" id="3195928371523524953" />
+        <var name="errorTarget" id="3195928371523524953" />
+      </scope>
+      <scope id="3195928371523564483" at="26,534,29,9" />
+      <scope id="3195928371523491037" at="39,0,42,0" />
+      <scope id="3195928371523491037" at="42,0,45,0">
+        <var name="argument" id="3195928371523491037" />
+      </scope>
+      <scope id="3195928371523491037" at="45,0,48,0" />
+      <scope id="3195928371523721896" at="48,0,51,0">
+        <var name="str" id="3195928371523721896" />
+      </scope>
+      <scope id="3195928371523522562" at="32,21,36,7" />
+      <scope id="3195928371523492341" at="25,223,30,7" />
+      <scope id="3195928371523492339" at="24,19,31,5">
+        <var name="node_itp" id="3195928371523492342" />
+      </scope>
+      <scope id="3195928371523491038" at="22,131,37,5">
+        <var name="br_poj" id="3195928371523506940" />
+        <var name="node_dk" id="3195928371523491056" />
+      </scope>
+      <scope id="3195928371523491037" at="22,0,39,0">
+        <var name="interfejsTokProces" id="3195928371523491037" />
+        <var name="status" id="3195928371523491037" />
+        <var name="typeCheckingContext" id="3195928371523491037" />
+      </scope>
+      <unit id="3195928371523491037" at="19,0,52,0" name="DTPL.typesystem.check_InterfejsTokProces_NonTypesystemRule" />
+    </file>
+  </root>
+  <root nodeRef="r:20c5195e-19a6-4b26-9fce-472e3335fbcc(DTPL.typesystem)/3195928371525059729">
+    <file name="XXX_QuickFix.java">
+      <node id="3195928371525059729" at="12,25,13,110" concept="10" />
+      <node id="3195928371525060359" at="15,35,16,204" concept="2" />
+      <node id="3195928371525059729" at="12,0,15,0" concept="1" trace="XXX_QuickFix#()V" />
+      <node id="3195928371525059729" at="15,0,18,0" concept="5" trace="execute#(Lorg/jetbrains/mps/openapi/model/SNode;)V" />
+      <scope id="3195928371525059729" at="12,25,13,110" />
+      <scope id="3195928371525059731" at="15,35,16,204" />
+      <scope id="3195928371525059729" at="12,0,15,0" />
+      <scope id="3195928371525059729" at="15,0,18,0">
+        <var name="node" id="3195928371525059729" />
+      </scope>
+      <unit id="3195928371525059729" at="11,0,19,0" name="DTPL.typesystem.XXX_QuickFix" />
+    </file>
+  </root>
+</debug-info>
+

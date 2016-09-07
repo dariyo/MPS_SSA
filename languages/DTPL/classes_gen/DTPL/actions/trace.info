@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info>
+  <concept fqn="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.ForeachStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.IfStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.Statement" />
+  <root>
+    <file name="ActionAspectDescriptorImpl.java">
+      <unit at="13,0,38,0" name="DTPL.actions.ActionAspectDescriptorImpl" />
+    </file>
+    <file name="QueriesGenerated.java">
+      <unit at="6,0,8,0" name="DTPL.actions.QueriesGenerated" />
+    </file>
+  </root>
+  <root nodeRef="r:670bf94f-9cc9-47a8-a924-6a9285aa8825(DTPL.actions)/3195928371521589109">
+    <file name="node_factories_DijagramKonteksta.java">
+      <node id="3195928371521589119" at="16,91,17,207" concept="5" />
+      <node id="3195928371521589905" at="17,207,18,46" concept="5" />
+      <node id="3195928371521590148" at="18,46,19,308" concept="1" />
+      <node id="3195928371521591738" at="19,308,20,181" concept="1" />
+      <node id="3195928371521589110" at="16,0,22,0" concept="4" trace="setup#(Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SModel;)V" />
+      <scope id="3195928371521589110" at="16,91,20,181">
+        <var name="node_dtpm" id="3195928371521589908" />
+        <var name="node_p" id="3195928371521589122" />
+      </scope>
+      <scope id="3195928371521589110" at="16,0,22,0">
+        <var name="enclosingNode" id="3195928371521589110" />
+        <var name="model" id="3195928371521589110" />
+        <var name="newNode" id="3195928371521589110" />
+        <var name="sampleNode" id="3195928371521589110" />
+      </scope>
+      <unit id="3195928371521589110" at="15,0,23,0" name="DTPL.actions.node_factories_DijagramKonteksta$NodeFactory_3195928371521589110" />
+      <unit id="3195928371521589109" at="14,0,24,0" name="DTPL.actions.node_factories_DijagramKonteksta" />
+    </file>
+  </root>
+  <root nodeRef="r:670bf94f-9cc9-47a8-a924-6a9285aa8825(DTPL.actions)/3195928371521635825">
+    <file name="node_factories_InterfejsTokProces.java">
+      <node id="3195928371522396110" at="14,91,15,24" concept="6" />
+      <node id="3195928371522396524" at="16,7,17,44" concept="5" />
+      <node id="3195928371521635832" at="18,192,19,53" concept="5" />
+      <node id="3195928371521636296" at="19,53,20,200" concept="5" />
+      <node id="3195928371521721306" at="20,200,21,234" concept="5" />
+      <node id="3195928371521636869" at="21,234,22,190" concept="1" />
+      <node id="3195928371521720547" at="22,190,23,187" concept="1" />
+      <node id="3195928371522396524" at="17,44,24,9" concept="3" />
+      <node id="3195928371522396524" at="15,24,25,7" concept="0" />
+      <node id="3195928371521635826" at="14,0,27,0" concept="4" trace="setup#(Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SModel;)V" />
+      <scope id="3195928371522396531" at="18,192,23,187">
+        <var name="node_dtpeitp" id="3195928371521635835" />
+        <var name="node_i" id="3195928371521636299" />
+        <var name="node_p" id="3195928371521721309" />
+      </scope>
+      <scope id="3195928371522396524" at="16,7,24,9">
+        <var name="dtpeitk" id="3195928371522396524" />
+      </scope>
+      <scope id="3195928371521635826" at="14,91,25,7" />
+      <scope id="3195928371521635826" at="14,0,27,0">
+        <var name="enclosingNode" id="3195928371521635826" />
+        <var name="model" id="3195928371521635826" />
+        <var name="newNode" id="3195928371521635826" />
+        <var name="sampleNode" id="3195928371521635826" />
+      </scope>
+      <unit id="3195928371521635826" at="13,0,28,0" name="DTPL.actions.node_factories_InterfejsTokProces$NodeFactory_3195928371521635826" />
+      <unit id="3195928371521635825" at="12,0,29,0" name="DTPL.actions.node_factories_InterfejsTokProces" />
+    </file>
+  </root>
+  <root nodeRef="r:670bf94f-9cc9-47a8-a924-6a9285aa8825(DTPL.actions)/3195928371521749022">
+    <file name="node_factories_ProcesTokInterfejs.java">
+      <node id="3195928371521749028" at="14,91,15,49" concept="5" />
+      <node id="3195928371521749034" at="15,49,16,0" concept="7" />
+      <node id="3195928371521749035" at="16,0,17,196" concept="5" />
+      <node id="3195928371521749041" at="17,196,18,230" concept="5" />
+      <node id="3195928371521749052" at="18,230,19,186" concept="1" />
+      <node id="3195928371521765244" at="19,186,20,183" concept="1" />
+      <node id="3195928371521765196" at="20,183,21,0" concept="7" />
+      <node id="3195928371521749023" at="14,0,23,0" concept="4" trace="setup#(Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SModel;)V" />
+      <scope id="3195928371521749023" at="14,91,21,0">
+        <var name="node_dtpeitp" id="3195928371521749029" />
+        <var name="node_i" id="3195928371521749036" />
+        <var name="node_p" id="3195928371521749042" />
+      </scope>
+      <scope id="3195928371521749023" at="14,0,23,0">
+        <var name="enclosingNode" id="3195928371521749023" />
+        <var name="model" id="3195928371521749023" />
+        <var name="newNode" id="3195928371521749023" />
+        <var name="sampleNode" id="3195928371521749023" />
+      </scope>
+      <unit id="3195928371521749023" at="13,0,24,0" name="DTPL.actions.node_factories_ProcesTokInterfejs$NodeFactory_3195928371521749023" />
+      <unit id="3195928371521749022" at="12,0,25,0" name="DTPL.actions.node_factories_ProcesTokInterfejs" />
+    </file>
+  </root>
+  <root nodeRef="r:670bf94f-9cc9-47a8-a924-6a9285aa8825(DTPL.actions)/3195928371522202941">
+    <file name="node_factories_Dijagram.java">
+      <node id="1590574671093880195" at="15,91,16,173" concept="1" />
+      <node id="3195928371522258869" at="17,7,18,39" concept="5" />
+      <node id="3195928371522259111" at="19,176,20,362" concept="1" />
+      <node id="3195928371522203048" at="20,362,21,177" concept="1" />
+      <node id="1590574671093877905" at="24,181,25,45" concept="5" />
+      <node id="1590574671093883214" at="25,45,26,340" concept="1" />
+      <node id="3195928371522258869" at="18,39,22,9" concept="3" />
+      <node id="1590574671093881483" at="23,7,27,7" concept="3" />
+      <node id="3195928371522258869" at="16,173,23,7" concept="0" />
+      <node id="3195928371522202942" at="15,0,29,0" concept="4" trace="setup#(Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SModel;)V" />
+      <scope id="3195928371522258876" at="19,176,21,177" />
+      <scope id="1590574671093881485" at="24,181,26,340">
+        <var name="node_d" id="1590574671093877906" />
+      </scope>
+      <scope id="3195928371522258869" at="17,7,22,9">
+        <var name="dk" id="3195928371522258869" />
+      </scope>
+      <scope id="3195928371522202942" at="15,91,27,7" />
+      <scope id="3195928371522202942" at="15,0,29,0">
+        <var name="enclosingNode" id="3195928371522202942" />
+        <var name="model" id="3195928371522202942" />
+        <var name="newNode" id="3195928371522202942" />
+        <var name="sampleNode" id="3195928371522202942" />
+      </scope>
+      <unit id="3195928371522202942" at="14,0,30,0" name="DTPL.actions.node_factories_Dijagram$NodeFactory_3195928371522202942" />
+      <unit id="3195928371522202941" at="13,0,31,0" name="DTPL.actions.node_factories_Dijagram" />
+    </file>
+  </root>
+  <root nodeRef="r:670bf94f-9cc9-47a8-a924-6a9285aa8825(DTPL.actions)/3195928371522293470">
+    <file name="node_factories_DTPElementProces.java">
+      <node id="3195928371522293477" at="14,91,15,43" concept="5" />
+      <node id="3195928371522293542" at="15,43,16,334" concept="1" />
+      <node id="3195928371522295707" at="16,334,17,0" concept="7" />
+      <node id="3195928371522298945" at="17,0,18,28" concept="5" />
+      <node id="3195928371522312677" at="20,200,21,196" concept="1" />
+      <node id="3195928371522315052" at="23,7,24,40" concept="1" />
+      <node id="3195928371522316471" at="24,40,25,193" concept="1" />
+      <node id="3195928371522311100" at="19,212,22,9" concept="3" />
+      <node id="3195928371522296508" at="18,28,23,7" concept="2" />
+      <node id="3195928371522293471" at="14,0,27,0" concept="4" trace="setup#(Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SModel;)V" />
+      <scope id="3195928371522311102" at="20,200,21,196" />
+      <scope id="3195928371522296510" at="19,212,22,9" />
+      <scope id="3195928371522296508" at="18,28,23,7">
+        <var name="dtpep" id="3195928371522296511" />
+      </scope>
+      <scope id="3195928371522293471" at="14,91,25,193">
+        <var name="node_d" id="3195928371522293480" />
+        <var name="proces_number" id="3195928371522298948" />
+      </scope>
+      <scope id="3195928371522293471" at="14,0,27,0">
+        <var name="enclosingNode" id="3195928371522293471" />
+        <var name="model" id="3195928371522293471" />
+        <var name="newNode" id="3195928371522293471" />
+        <var name="sampleNode" id="3195928371522293471" />
+      </scope>
+      <unit id="3195928371522293471" at="13,0,28,0" name="DTPL.actions.node_factories_DTPElementProces$NodeFactory_3195928371522293471" />
+      <unit id="3195928371522293470" at="12,0,29,0" name="DTPL.actions.node_factories_DTPElementProces" />
+    </file>
+  </root>
+  <root nodeRef="r:670bf94f-9cc9-47a8-a924-6a9285aa8825(DTPL.actions)/3195928371522498469">
+    <file name="node_factories_InterfejsRefTokRefProcesRef.java">
+      <node id="3195928371522442422" at="15,7,16,42" concept="5" />
+      <node id="3195928371522442439" at="17,178,18,190" concept="5" />
+      <node id="3195928371522443350" at="18,190,19,0" concept="7" />
+      <node id="3195928371522442456" at="19,0,20,187" concept="1" />
+      <node id="3195928371522442422" at="16,42,21,9" concept="3" />
+      <node id="3195928371522442422" at="14,91,22,7" concept="0" />
+      <node id="3195928371522498470" at="14,0,24,0" concept="4" trace="setup#(Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SModel;)V" />
+      <scope id="3195928371522442426" at="17,178,20,187">
+        <var name="node_p" id="3195928371522442440" />
+      </scope>
+      <scope id="3195928371522442422" at="15,7,21,9">
+        <var name="dtpep" id="3195928371522442422" />
+      </scope>
+      <scope id="3195928371522498470" at="14,91,22,7" />
+      <scope id="3195928371522498470" at="14,0,24,0">
+        <var name="enclosingNode" id="3195928371522498470" />
+        <var name="model" id="3195928371522498470" />
+        <var name="newNode" id="3195928371522498470" />
+        <var name="sampleNode" id="3195928371522498470" />
+      </scope>
+      <unit id="3195928371522498470" at="13,0,25,0" name="DTPL.actions.node_factories_InterfejsRefTokRefProcesRef$NodeFactory_3195928371522498470" />
+      <unit id="3195928371522498469" at="12,0,26,0" name="DTPL.actions.node_factories_InterfejsRefTokRefProcesRef" />
+    </file>
+  </root>
+</debug-info>
+

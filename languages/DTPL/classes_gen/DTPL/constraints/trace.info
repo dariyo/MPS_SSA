@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info>
+  <concept fqn="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.ForeachStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.IfStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.Statement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+  <root>
+    <file name="ConstraintsAspectDescriptor.java">
+      <unit at="9,0,29,0" name="DTPL.constraints.ConstraintsAspectDescriptor" />
+    </file>
+  </root>
+  <root nodeRef="r:d1323bac-5479-4158-b8f2-09045725c39d(DTPL.constraints)/1590574671093928600">
+    <file name="Dijagram_Constraints.java">
+      <node id="1590574671093928600" at="31,33,32,97" concept="11" />
+      <node id="1590574671093928600" at="35,98,36,135" concept="6" />
+      <node id="1590574671093928600" at="39,44,40,20" concept="7" />
+      <node id="1590574671093928600" at="47,63,48,58" concept="7" />
+      <node id="1590574671093935302" at="52,13,53,64" concept="6" />
+      <node id="1590574671093942367" at="53,64,54,0" concept="9" />
+      <node id="1590574671094035050" at="55,15,56,65" concept="6" />
+      <node id="1590574671093982320" at="58,227,59,236" concept="2" />
+      <node id="1590574671094125821" at="62,15,63,0" concept="9" />
+      <node id="1590574671094050398" at="64,15,65,66" concept="6" />
+      <node id="1590574671094051771" at="66,189,67,233" concept="2" />
+      <node id="1590574671093942476" at="69,15,70,0" concept="9" />
+      <node id="1590574671093947582" at="72,52,73,47" concept="6" />
+      <node id="1590574671093949342" at="73,47,74,177" concept="7" />
+      <node id="1590574671093928600" at="81,7,82,22" concept="7" />
+      <node id="1590574671093928600" at="84,0,85,0" concept="10" trace="breakingNode_lu9izp_a0a0a0a0a1a0b0a1a1" />
+      <node id="1590574671093928600" at="31,0,34,0" concept="1" trace="Dijagram_Constraints#()V" />
+      <node id="1590574671093956183" at="57,179,60,19" concept="3" />
+      <node id="1590574671094050398" at="65,66,68,17" concept="4" />
+      <node id="1590574671093928600" at="38,0,42,0" concept="5" trace="hasOwnScopeProvider#()Z" />
+      <node id="1590574671093928600" at="46,0,50,0" concept="5" trace="getSearchScopeValidatorNode#()Lorg/jetbrains/mps/openapi/model/SNodeReference;" />
+      <node id="1590574671093943070" at="72,0,76,0" concept="5" trace="getName#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljava/lang/String;" />
+      <node id="1590574671094035050" at="56,65,61,17" concept="4" />
+      <node id="1590574671094050398" at="63,0,69,15" concept="0" />
+      <node id="1590574671093942529" at="70,0,76,16" concept="7" />
+      <node id="1590574671094035050" at="54,0,62,15" concept="0" />
+      <node id="1590574671093928600" at="51,122,77,13" concept="0" />
+      <node id="1590574671093928600" at="50,0,79,0" concept="5" trace="createScope#(Ljetbrains/mps/smodel/IOperationContext;Ljetbrains/mps/smodel/runtime/ReferenceConstraintsContext;)Ljetbrains/mps/scope/Scope;" />
+      <node id="1590574671093928600" at="44,56,79,10" concept="7" />
+      <node id="1590574671093928600" at="42,0,81,0" concept="5" trace="getScopeProvider#()Ljetbrains/mps/smodel/runtime/ReferenceScopeProvider;" />
+      <node id="1590574671093928600" at="36,135,81,7" concept="2" />
+      <node id="1590574671093928600" at="34,0,84,0" concept="5" trace="getNotDefaultSReferenceLinks#()Ljava/util/Map;" />
+      <scope id="1590574671093928600" at="31,33,32,97" />
+      <scope id="1590574671093928600" at="39,44,40,20" />
+      <scope id="1590574671093928600" at="47,63,48,58" />
+      <scope id="1590574671093956185" at="58,227,59,236" />
+      <scope id="1590574671094050405" at="66,189,67,233" />
+      <scope id="1590574671093943076" at="72,52,74,177">
+        <var name="node_p" id="1590574671093947585" />
+      </scope>
+      <scope id="1590574671093928600" at="31,0,34,0" />
+      <scope id="1590574671093956183" at="57,179,60,19">
+        <var name="node_dtp" id="1590574671093956187" />
+      </scope>
+      <scope id="1590574671094035057" at="57,179,60,19" />
+      <scope id="1590574671093928600" at="38,0,42,0" />
+      <scope id="1590574671093928600" at="46,0,50,0" />
+      <scope id="1590574671094050398" at="64,15,68,17">
+        <var name="node_dk" id="1590574671094050398" />
+      </scope>
+      <scope id="1590574671093943070" at="72,0,76,0">
+        <var name="child" id="1590574671093943074" />
+      </scope>
+      <scope id="1590574671094035050" at="55,15,61,17">
+        <var name="node_d" id="1590574671094035050" />
+      </scope>
+      <scope id="1590574671093935245" at="52,13,76,16">
+        <var name="nlist_proces" id="1590574671093935305" />
+      </scope>
+      <scope id="1590574671093928600" at="51,122,77,13" />
+      <scope id="1590574671093928600" at="50,0,79,0">
+        <var name="_context" id="1590574671093928600" />
+        <var name="operationContext" id="1590574671093928600" />
+      </scope>
+      <scope id="1590574671093928600" at="44,56,79,10" />
+      <scope id="1590574671093928600" at="42,0,81,0" />
+      <scope id="1590574671093928600" at="35,98,82,22">
+        <var name="references" id="1590574671093928600" />
+      </scope>
+      <scope id="1590574671093928600" at="34,0,84,0" />
+      <unit id="1590574671093943068" at="71,25,76,15" name="DTPL.constraints.Dijagram_Constraints$3" />
+      <unit id="1590574671093928600" at="45,19,79,9" name="DTPL.constraints.Dijagram_Constraints$2" />
+      <unit id="1590574671093928600" at="37,127,81,5" name="DTPL.constraints.Dijagram_Constraints$1" />
+      <unit id="1590574671093928600" at="30,0,86,0" name="DTPL.constraints.Dijagram_Constraints" />
+    </file>
+  </root>
+  <root nodeRef="r:d1323bac-5479-4158-b8f2-09045725c39d(DTPL.constraints)/3195928371522146441">
+    <file name="DijagramKonteksta_Constraints.java">
+      <node id="3195928371522146441" at="9,42,10,97" concept="11" />
+      <node id="3195928371522146441" at="9,0,12,0" concept="1" trace="DijagramKonteksta_Constraints#()V" />
+      <scope id="3195928371522146441" at="9,42,10,97" />
+      <scope id="3195928371522146441" at="9,0,12,0" />
+      <unit id="3195928371522146441" at="8,0,13,0" name="DTPL.constraints.DijagramKonteksta_Constraints" />
+    </file>
+  </root>
+  <root nodeRef="r:d1323bac-5479-4158-b8f2-09045725c39d(DTPL.constraints)/3195928371522544406">
+    <file name="InterfejsRefTokRefProcesRef_Constraints.java">
+      <node id="3195928371522544406" at="31,52,32,97" concept="11" />
+      <node id="3195928371522544406" at="35,98,36,135" concept="6" />
+      <node id="3195928371522544406" at="39,44,40,20" concept="7" />
+      <node id="3195928371522544406" at="47,63,48,58" concept="7" />
+      <node id="3195928371522555477" at="52,13,53,67" concept="6" />
+      <node id="3195928371522585596" at="53,67,54,234" concept="6" />
+      <node id="3195928371522609828" at="55,230,56,206" concept="6" />
+      <node id="3195928371522612154" at="56,206,57,74" concept="2" />
+      <node id="3195928371522587024" at="58,15,59,0" concept="9" />
+      <node id="3195928371522557200" at="61,52,62,47" concept="6" />
+      <node id="3195928371522557905" at="62,47,63,177" concept="7" />
+      <node id="3195928371522544465" at="65,16,66,0" concept="9" />
+      <node id="3195928371522544406" at="74,44,75,20" concept="7" />
+      <node id="3195928371522544406" at="82,63,83,58" concept="7" />
+      <node id="3195928371522676972" at="87,13,88,69" concept="6" />
+      <node id="3195928371522676849" at="88,69,89,0" concept="9" />
+      <node id="3195928371522672935" at="90,222,91,223" concept="6" />
+      <node id="3195928371522683324" at="91,223,92,38" concept="8" />
+      <node id="3195928371522680539" at="92,38,93,236" concept="6" />
+      <node id="3195928371522680549" at="94,232,95,210" concept="6" />
+      <node id="3195928371522691503" at="96,338,97,43" concept="8" />
+      <node id="3195928371522712237" at="98,244,99,248" concept="2" />
+      <node id="3195928371522680445" at="102,17,103,0" concept="9" />
+      <node id="3195928371522680179" at="103,0,104,0" concept="9" />
+      <node id="3195928371522676385" at="107,52,108,47" concept="6" />
+      <node id="3195928371522676391" at="108,47,109,177" concept="7" />
+      <node id="3195928371522676256" at="111,16,112,0" concept="9" />
+      <node id="3195928371522544406" at="117,7,118,22" concept="7" />
+      <node id="3195928371522544406" at="120,0,121,0" concept="10" trace="breakingNode_mit8ze_a0a0a0a0a1a0b0a1a1" />
+      <node id="3195928371522544406" at="121,0,122,0" concept="10" trace="breakingNode_mit8ze_a0a0a0a0a1a0b0a2a1" />
+      <node id="3195928371522544406" at="31,0,34,0" concept="1" trace="InterfejsRefTokRefProcesRef_Constraints#()V" />
+      <node id="3195928371522694125" at="97,43,100,21" concept="3" />
+      <node id="3195928371522544406" at="38,0,42,0" concept="5" trace="hasOwnScopeProvider#()Z" />
+      <node id="3195928371522544406" at="46,0,50,0" concept="5" trace="getSearchScopeValidatorNode#()Lorg/jetbrains/mps/openapi/model/SNodeReference;" />
+      <node id="3195928371522587238" at="54,234,58,15" concept="3" />
+      <node id="3195928371522555266" at="61,0,65,0" concept="5" trace="getName#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljava/lang/String;" />
+      <node id="3195928371522544406" at="73,0,77,0" concept="5" trace="hasOwnScopeProvider#()Z" />
+      <node id="3195928371522544406" at="81,0,85,0" concept="5" trace="getSearchScopeValidatorNode#()Lorg/jetbrains/mps/openapi/model/SNodeReference;" />
+      <node id="3195928371522676379" at="107,0,111,0" concept="5" trace="getName#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljava/lang/String;" />
+      <node id="3195928371522544442" at="59,0,65,16" concept="7" />
+      <node id="3195928371522685236" at="95,210,101,19" concept="4" />
+      <node id="3195928371522676374" at="105,15,111,16" concept="7" />
+      <node id="3195928371522680547" at="93,236,102,17" concept="3" />
+      <node id="3195928371522544406" at="51,122,67,13" concept="0" />
+      <node id="3195928371522673068" at="89,0,105,15" concept="4" />
+      <node id="3195928371522544406" at="50,0,69,0" concept="5" trace="createScope#(Ljetbrains/mps/smodel/IOperationContext;Ljetbrains/mps/smodel/runtime/ReferenceConstraintsContext;)Ljetbrains/mps/scope/Scope;" />
+      <node id="3195928371522544406" at="44,56,69,10" concept="7" />
+      <node id="3195928371522544406" at="86,122,113,13" concept="0" />
+      <node id="3195928371522544406" at="42,0,71,0" concept="5" trace="getScopeProvider#()Ljetbrains/mps/smodel/runtime/ReferenceScopeProvider;" />
+      <node id="3195928371522544406" at="85,0,115,0" concept="5" trace="createScope#(Ljetbrains/mps/smodel/IOperationContext;Ljetbrains/mps/smodel/runtime/ReferenceConstraintsContext;)Ljetbrains/mps/scope/Scope;" />
+      <node id="3195928371522544406" at="36,135,71,7" concept="2" />
+      <node id="3195928371522544406" at="79,56,115,10" concept="7" />
+      <node id="3195928371522544406" at="77,0,117,0" concept="5" trace="getScopeProvider#()Ljetbrains/mps/smodel/runtime/ReferenceScopeProvider;" />
+      <node id="3195928371522544406" at="71,7,117,7" concept="2" />
+      <node id="3195928371522544406" at="34,0,120,0" concept="5" trace="getNotDefaultSReferenceLinks#()Ljava/util/Map;" />
+      <scope id="3195928371522544406" at="31,52,32,97" />
+      <scope id="3195928371522544406" at="39,44,40,20" />
+      <scope id="3195928371522544406" at="47,63,48,58" />
+      <scope id="3195928371522544406" at="74,44,75,20" />
+      <scope id="3195928371522544406" at="82,63,83,58" />
+      <scope id="3195928371522694127" at="98,244,99,248" />
+      <scope id="3195928371522587240" at="55,230,57,74">
+        <var name="node_i" id="3195928371522609831" />
+      </scope>
+      <scope id="3195928371522555272" at="61,52,63,177">
+        <var name="node_i" id="3195928371522557203" />
+      </scope>
+      <scope id="3195928371522676384" at="107,52,109,177">
+        <var name="node_i" id="3195928371522676386" />
+      </scope>
+      <scope id="3195928371522544406" at="31,0,34,0" />
+      <scope id="3195928371522694125" at="97,43,100,21">
+        <var name="node_itp" id="3195928371522694128" />
+      </scope>
+      <scope id="3195928371522544406" at="38,0,42,0" />
+      <scope id="3195928371522544406" at="46,0,50,0" />
+      <scope id="3195928371522587238" at="54,234,58,15">
+        <var name="node_dtpeitp" id="3195928371522587241" />
+      </scope>
+      <scope id="3195928371522555266" at="61,0,65,0">
+        <var name="child" id="3195928371522555270" />
+      </scope>
+      <scope id="3195928371522544406" at="73,0,77,0" />
+      <scope id="3195928371522544406" at="81,0,85,0" />
+      <scope id="3195928371522685238" at="96,338,100,21" />
+      <scope id="3195928371522676379" at="107,0,111,0">
+        <var name="child" id="3195928371522676382" />
+      </scope>
+      <scope id="3195928371522680548" at="94,232,101,19">
+        <var name="node_i_i" id="3195928371522680550" />
+      </scope>
+      <scope id="3195928371522680547" at="93,236,102,17">
+        <var name="node_dtpeitp" id="3195928371522680560" />
+      </scope>
+      <scope id="3195928371522544417" at="52,13,66,0">
+        <var name="nlist_interfejs" id="3195928371522555480" />
+        <var name="node_dk" id="3195928371522585599" />
+      </scope>
+      <scope id="3195928371522673070" at="90,222,104,0">
+        <var name="node_dk" id="3195928371522680540" />
+        <var name="node_i" id="3195928371522672938" />
+      </scope>
+      <scope id="3195928371522544406" at="51,122,67,13" />
+      <scope id="3195928371522544406" at="50,0,69,0">
+        <var name="_context" id="3195928371522544406" />
+        <var name="operationContext" id="3195928371522544406" />
+      </scope>
+      <scope id="3195928371522544406" at="44,56,69,10" />
+      <scope id="3195928371522672909" at="87,13,112,0">
+        <var name="nlist_tok_podatak" id="3195928371522676973" />
+      </scope>
+      <scope id="3195928371522544406" at="86,122,113,13" />
+      <scope id="3195928371522544406" at="42,0,71,0" />
+      <scope id="3195928371522544406" at="85,0,115,0">
+        <var name="_context" id="3195928371522544406" />
+        <var name="operationContext" id="3195928371522544406" />
+      </scope>
+      <scope id="3195928371522544406" at="79,56,115,10" />
+      <scope id="3195928371522544406" at="77,0,117,0" />
+      <scope id="3195928371522544406" at="35,98,118,22">
+        <var name="references" id="3195928371522544406" />
+      </scope>
+      <scope id="3195928371522544406" at="34,0,120,0" />
+      <unit id="3195928371522555254" at="60,25,65,15" name="DTPL.constraints.InterfejsRefTokRefProcesRef_Constraints$3" />
+      <unit id="3195928371522676377" at="106,25,111,15" name="DTPL.constraints.InterfejsRefTokRefProcesRef_Constraints$4" />
+      <unit id="3195928371522544406" at="45,19,69,9" name="DTPL.constraints.InterfejsRefTokRefProcesRef_Constraints$2" />
+      <unit id="3195928371522544406" at="37,127,71,5" name="DTPL.constraints.InterfejsRefTokRefProcesRef_Constraints$1" />
+      <unit id="3195928371522544406" at="80,19,115,9" name="DTPL.constraints.InterfejsRefTokRefProcesRef_Constraints$3" />
+      <unit id="3195928371522544406" at="72,127,117,5" name="DTPL.constraints.InterfejsRefTokRefProcesRef_Constraints$2" />
+      <unit id="3195928371522544406" at="30,0,123,0" name="DTPL.constraints.InterfejsRefTokRefProcesRef_Constraints" />
+    </file>
+  </root>
+  <root nodeRef="r:d1323bac-5479-4158-b8f2-09045725c39d(DTPL.constraints)/3195928371525094050">
+    <file name="DTPModel_Constraints.java">
+      <node id="3195928371525094050" at="16,33,17,97" concept="11" />
+      <node id="3195928371525094050" at="20,88,21,123" concept="6" />
+      <node id="3195928371525094050" at="24,40,25,20" concept="7" />
+      <node id="3195928371525094050" at="28,70,29,37" concept="6" />
+      <node id="3195928371525095524" at="30,78,31,22" concept="7" />
+      <node id="3195928371525096342" at="32,9,33,37" concept="2" />
+      <node id="3195928371525095865" at="33,37,34,21" concept="7" />
+      <node id="3195928371525094050" at="36,7,37,22" concept="7" />
+      <node id="3195928371525094050" at="16,0,19,0" concept="1" trace="DTPModel_Constraints#()V" />
+      <node id="3195928371525094125" at="29,37,32,9" concept="4" />
+      <node id="3195928371525094050" at="23,0,27,0" concept="5" trace="hasOwnValidator#()Z" />
+      <node id="3195928371525094050" at="29,37,34,21" concept="0" />
+      <node id="3195928371525094050" at="27,0,36,0" concept="5" trace="validateValue#(Lorg/jetbrains/mps/openapi/model/SNode;Ljava/lang/String;)Z" />
+      <node id="3195928371525094050" at="21,123,36,7" concept="2" />
+      <node id="3195928371525094050" at="19,0,39,0" concept="5" trace="getNotDefaultSProperties#()Ljava/util/Map;" />
+      <scope id="3195928371525094050" at="16,33,17,97" />
+      <scope id="3195928371525094050" at="24,40,25,20" />
+      <scope id="3195928371525094126" at="30,78,31,22" />
+      <scope id="3195928371525094050" at="16,0,19,0" />
+      <scope id="3195928371525094050" at="23,0,27,0" />
+      <scope id="3195928371525094055" at="29,37,34,21" />
+      <scope id="3195928371525094050" at="28,70,34,21">
+        <var name="propertyName" id="3195928371525094050" />
+      </scope>
+      <scope id="3195928371525094050" at="27,0,36,0">
+        <var name="node" id="3195928371525094050" />
+        <var name="propertyValue" id="3195928371525094050" />
+      </scope>
+      <scope id="3195928371525094050" at="20,88,37,22">
+        <var name="properties" id="3195928371525094050" />
+      </scope>
+      <scope id="3195928371525094050" at="19,0,39,0" />
+      <unit id="3195928371525094050" at="22,119,36,5" name="DTPL.constraints.DTPModel_Constraints$1" />
+      <unit id="3195928371525094050" at="15,0,40,0" name="DTPL.constraints.DTPModel_Constraints" />
+    </file>
+  </root>
+</debug-info>
+
