@@ -42,6 +42,9 @@ public class EditorAspectDescriptorImpl extends EditorAspectDescriptorBase {
       if (SConceptOperations.isExactly(SNodeOperations.asSConcept(cncpt), MetaAdapterFactory.getConcept(0x4fade4743af4300L, 0xad5bb5d24df72c43L, 0x2c5a37ebd022d51eL, "DTPL.structure.Proces"))) {
         return Collections.<ConceptEditor>singletonList(new Proces_Editor());
       }
+      if (SConceptOperations.isExactly(SNodeOperations.asSConcept(cncpt), MetaAdapterFactory.getConcept(0x4fade4743af4300L, 0xad5bb5d24df72c43L, 0x3fe263f784c89337L, "DTPL.structure.ProcesRefTokRefInterfejsRef"))) {
+        return Collections.<ConceptEditor>singletonList(new ProcesRefTokRefInterfejsRef_Editor());
+      }
       if (SConceptOperations.isExactly(SNodeOperations.asSConcept(cncpt), MetaAdapterFactory.getConcept(0x4fade4743af4300L, 0xad5bb5d24df72c43L, 0x2c5a37ebd024fa9aL, "DTPL.structure.ProcesTokInterfejs"))) {
         return Collections.<ConceptEditor>singletonList(new ProcesTokInterfejs_Editor());
       }

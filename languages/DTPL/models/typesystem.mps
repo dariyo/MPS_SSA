@@ -813,5 +813,164 @@
       <ref role="1YaFvo" to="mprd:2LqdYJgaT22" resolve="Dijagram" />
     </node>
   </node>
+  <node concept="18kY7G" id="3ZyoZu4KK1J">
+    <property role="TrG5h" value="check_ProcesTokInterfejs" />
+    <property role="3GE5qa" value="dijagram_konteksta" />
+    <node concept="3clFbS" id="3ZyoZu4KK1K" role="18ibNy">
+      <node concept="3cpWs8" id="3ZyoZu4KK2b" role="3cqZAp">
+        <node concept="3cpWsn" id="3ZyoZu4KK2c" role="3cpWs9">
+          <property role="TrG5h" value="node_dk" />
+          <node concept="3Tqbb2" id="3ZyoZu4KK2d" role="1tU5fm">
+            <ref role="ehGHo" to="mprd:2LqdYJg8Qb7" resolve="DTPElementInterfejsTokProces" />
+          </node>
+          <node concept="10QFUN" id="3ZyoZu4KK2e" role="33vP2m">
+            <node concept="2OqwBi" id="3ZyoZu4KK2f" role="10QFUP">
+              <node concept="1YBJjd" id="3ZyoZu4KK$J" role="2Oq$k0">
+                <ref role="1YBMHb" node="3ZyoZu4KK1M" resolve="procesTokInterfejs" />
+              </node>
+              <node concept="1mfA1w" id="3ZyoZu4KK2h" role="2OqNvi" />
+            </node>
+            <node concept="3Tqbb2" id="3ZyoZu4KK2i" role="10QFUM">
+              <ref role="ehGHo" to="mprd:2LqdYJg8Qb7" resolve="DTPElementInterfejsTokProces" />
+            </node>
+          </node>
+        </node>
+      </node>
+      <node concept="3cpWs8" id="3ZyoZu4KK2j" role="3cqZAp">
+        <node concept="3cpWsn" id="3ZyoZu4KK2k" role="3cpWs9">
+          <property role="TrG5h" value="br_poj" />
+          <node concept="10Oyi0" id="3ZyoZu4KK2l" role="1tU5fm" />
+          <node concept="3cmrfG" id="3ZyoZu4KK2m" role="33vP2m">
+            <property role="3cmrfH" value="0" />
+          </node>
+        </node>
+      </node>
+      <node concept="1DcWWT" id="3ZyoZu4KK2n" role="3cqZAp">
+        <node concept="3clFbS" id="3ZyoZu4KK2o" role="2LFqv$">
+          <node concept="3clFbJ" id="3ZyoZu4KK2p" role="3cqZAp">
+            <node concept="3clFbS" id="3ZyoZu4KK2q" role="3clFbx">
+              <node concept="3clFbJ" id="3ZyoZu4KK2r" role="3cqZAp">
+                <node concept="3clFbS" id="3ZyoZu4KK2s" role="3clFbx">
+                  <node concept="3clFbF" id="3ZyoZu4KK2t" role="3cqZAp">
+                    <node concept="37vLTI" id="3ZyoZu4KK2u" role="3clFbG">
+                      <node concept="3cpWs3" id="3ZyoZu4KK2v" role="37vLTx">
+                        <node concept="3cmrfG" id="3ZyoZu4KK2w" role="3uHU7w">
+                          <property role="3cmrfH" value="1" />
+                        </node>
+                        <node concept="37vLTw" id="3ZyoZu4KK2x" role="3uHU7B">
+                          <ref role="3cqZAo" node="3ZyoZu4KK2k" resolve="br_poj" />
+                        </node>
+                      </node>
+                      <node concept="37vLTw" id="3ZyoZu4KK2y" role="37vLTJ">
+                        <ref role="3cqZAo" node="3ZyoZu4KK2k" resolve="br_poj" />
+                      </node>
+                    </node>
+                  </node>
+                </node>
+                <node concept="2OqwBi" id="3ZyoZu4KK2z" role="3clFbw">
+                  <node concept="2OqwBi" id="3ZyoZu4KK2$" role="2Oq$k0">
+                    <node concept="2OqwBi" id="3ZyoZu4KK2_" role="2Oq$k0">
+                      <node concept="37vLTw" id="3ZyoZu4KK2A" role="2Oq$k0">
+                        <ref role="3cqZAo" node="3ZyoZu4KK2W" resolve="node_itp" />
+                      </node>
+                      <node concept="3TrEf2" id="3ZyoZu4KXHt" role="2OqNvi">
+                        <ref role="3Tt5mk" to="mprd:2LqdYJg9fEt" />
+                      </node>
+                    </node>
+                    <node concept="3TrcHB" id="3ZyoZu4KK2C" role="2OqNvi">
+                      <ref role="3TsBF5" to="tpck:h0TrG11" resolve="name" />
+                    </node>
+                  </node>
+                  <node concept="liA8E" id="3ZyoZu4KK2D" role="2OqNvi">
+                    <ref role="37wK5l" to="wyt6:~String.equals(java.lang.Object):boolean" resolve="equals" />
+                    <node concept="2OqwBi" id="3ZyoZu4KK2E" role="37wK5m">
+                      <node concept="2OqwBi" id="3ZyoZu4KK2F" role="2Oq$k0">
+                        <node concept="1YBJjd" id="3ZyoZu4KLSa" role="2Oq$k0">
+                          <ref role="1YBMHb" node="3ZyoZu4KK1M" resolve="procesTokInterfejs" />
+                        </node>
+                        <node concept="3TrEf2" id="3ZyoZu4KXLw" role="2OqNvi">
+                          <ref role="3Tt5mk" to="mprd:2LqdYJg9fEt" />
+                        </node>
+                      </node>
+                      <node concept="3TrcHB" id="3ZyoZu4KK2I" role="2OqNvi">
+                        <ref role="3TsBF5" to="tpck:h0TrG11" resolve="name" />
+                      </node>
+                    </node>
+                  </node>
+                </node>
+              </node>
+            </node>
+            <node concept="1Wc70l" id="3ZyoZu4KK2J" role="3clFbw">
+              <node concept="2OqwBi" id="3ZyoZu4KK2K" role="3uHU7w">
+                <node concept="2OqwBi" id="3ZyoZu4KK2L" role="2Oq$k0">
+                  <node concept="2OqwBi" id="3ZyoZu4KK2M" role="2Oq$k0">
+                    <node concept="37vLTw" id="3ZyoZu4KK2N" role="2Oq$k0">
+                      <ref role="3cqZAo" node="3ZyoZu4KK2W" resolve="node_itp" />
+                    </node>
+                    <node concept="3TrEf2" id="3ZyoZu4KX_N" role="2OqNvi">
+                      <ref role="3Tt5mk" to="mprd:2LqdYJg9fEt" />
+                    </node>
+                  </node>
+                  <node concept="3TrcHB" id="3ZyoZu4KK2P" role="2OqNvi">
+                    <ref role="3TsBF5" to="tpck:h0TrG11" resolve="name" />
+                  </node>
+                </node>
+                <node concept="17RvpY" id="3ZyoZu4KK2Q" role="2OqNvi" />
+              </node>
+              <node concept="2OqwBi" id="3ZyoZu4KK2R" role="3uHU7B">
+                <node concept="2OqwBi" id="3ZyoZu4KK2S" role="2Oq$k0">
+                  <node concept="37vLTw" id="3ZyoZu4KK2T" role="2Oq$k0">
+                    <ref role="3cqZAo" node="3ZyoZu4KK2W" resolve="node_itp" />
+                  </node>
+                  <node concept="3TrEf2" id="3ZyoZu4KXDC" role="2OqNvi">
+                    <ref role="3Tt5mk" to="mprd:2LqdYJg9fEt" />
+                  </node>
+                </node>
+                <node concept="3x8VRR" id="3ZyoZu4KK2V" role="2OqNvi" />
+              </node>
+            </node>
+          </node>
+        </node>
+        <node concept="3cpWsn" id="3ZyoZu4KK2W" role="1Duv9x">
+          <property role="TrG5h" value="node_itp" />
+          <node concept="3Tqbb2" id="3ZyoZu4KK2X" role="1tU5fm">
+            <ref role="ehGHo" to="mprd:2LqdYJg9fEq" resolve="ProcesTokInterfejs" />
+          </node>
+        </node>
+        <node concept="2OqwBi" id="3ZyoZu4KK2Y" role="1DdaDG">
+          <node concept="37vLTw" id="3ZyoZu4KK2Z" role="2Oq$k0">
+            <ref role="3cqZAo" node="3ZyoZu4KK2c" resolve="node_dk" />
+          </node>
+          <node concept="3Tsc0h" id="3ZyoZu4KLtQ" role="2OqNvi">
+            <ref role="3TtcxE" to="mprd:2LqdYJg9m7q" />
+          </node>
+        </node>
+      </node>
+      <node concept="3clFbJ" id="3ZyoZu4KK31" role="3cqZAp">
+        <node concept="3clFbS" id="3ZyoZu4KK32" role="3clFbx">
+          <node concept="2MkqsV" id="3ZyoZu4KK33" role="3cqZAp">
+            <node concept="Xl_RD" id="3ZyoZu4KK34" role="2MkJ7o">
+              <property role="Xl_RC" value="Tok podataka kao izlazni tok vec postoji" />
+            </node>
+            <node concept="1YBJjd" id="3ZyoZu4KXNa" role="2OEOjV">
+              <ref role="1YBMHb" node="3ZyoZu4KK1M" resolve="procesTokInterfejs" />
+            </node>
+          </node>
+        </node>
+        <node concept="3eOSWO" id="3ZyoZu4KK36" role="3clFbw">
+          <node concept="3cmrfG" id="3ZyoZu4KK37" role="3uHU7w">
+            <property role="3cmrfH" value="1" />
+          </node>
+          <node concept="37vLTw" id="3ZyoZu4KK38" role="3uHU7B">
+            <ref role="3cqZAo" node="3ZyoZu4KK2k" resolve="br_poj" />
+          </node>
+        </node>
+      </node>
+    </node>
+    <node concept="1YaCAy" id="3ZyoZu4KK1M" role="1YuTPh">
+      <property role="TrG5h" value="procesTokInterfejs" />
+      <ref role="1YaFvo" to="mprd:2LqdYJg9fEq" resolve="ProcesTokInterfejs" />
+    </node>
+  </node>
 </model>
 

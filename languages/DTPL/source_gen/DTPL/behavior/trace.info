@@ -39,6 +39,9 @@
     <file name="Interfejs_BehaviorDescriptor.java">
       <unit at="14,0,26,0" name="DTPL.behavior.Interfejs_BehaviorDescriptor" />
     </file>
+    <file name="ProcesRefTokRefInterfejsRef_BehaviorDescriptor.java">
+      <unit at="12,0,21,0" name="DTPL.behavior.ProcesRefTokRefInterfejsRef_BehaviorDescriptor" />
+    </file>
     <file name="ProcesTokInterfejs_BehaviorDescriptor.java">
       <unit at="12,0,21,0" name="DTPL.behavior.ProcesTokInterfejs_BehaviorDescriptor" />
     </file>

@@ -37,7 +37,7 @@ public class check_Dijagram_NonTypesystemRule extends AbstractNonTypesystemRule_
         if (broj_ponavljanja > 1) {
           {
             MessageTarget errorTarget = new NodeMessageTarget();
-            IErrorReporter _reporter_2309309498 = typeCheckingContext.reportTypeError(dijagram, "vec postoji", "r:20c5195e-19a6-4b26-9fce-472e3335fbcc(DTPL.typesystem)", "1590574671094374629", null, errorTarget);
+            IErrorReporter _reporter_2309309498 = typeCheckingContext.reportTypeError(dijagram, "Vec postoji dekompozicija izabranog procesa", "r:20c5195e-19a6-4b26-9fce-472e3335fbcc(DTPL.typesystem)", "1590574671094374629", null, errorTarget);
           }
         }
       }

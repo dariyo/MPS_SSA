@@ -23,6 +23,9 @@ public class ConstraintsAspectDescriptor implements jetbrains.mps.smodel.runtime
     if (id == 0x2c5a37ebd02b9082L) {
       return new Dijagram_Constraints();
     }
+    if (id == 0x3fe263f784c89337L) {
+      return new ProcesRefTokRefInterfejsRef_Constraints();
+    }
     return new BaseConstraintsDescriptor(conceptId);
   }
 }

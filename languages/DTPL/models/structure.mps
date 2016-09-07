@@ -232,7 +232,7 @@
       <property role="20lmBu" value="aggregation" />
       <property role="20kJfa" value="out_proces_tok_interfejs" />
       <property role="20lbJX" value="0..n" />
-      <ref role="20lvS9" node="2LqdYJg9fEq" resolve="ProcesTokInterfejs" />
+      <ref role="20lvS9" node="3ZyoZu4M9cR" resolve="ProcesRefTokRefInterfejsRef" />
     </node>
     <node concept="1TJgyj" id="yEA1xIHlcQ" role="1TKVEi">
       <property role="20lmBu" value="aggregation" />
@@ -257,6 +257,27 @@
       <ref role="20lvS9" node="2LqdYJg8Hku" resolve="Proces" />
     </node>
     <node concept="1TJgyj" id="2LqdYJgc6Zr" role="1TKVEi">
+      <property role="20lmBu" value="reference" />
+      <property role="20kJfa" value="tok_podataka_ref" />
+      <ref role="20lvS9" node="2LqdYJg8Hkx" resolve="TokPodatka" />
+    </node>
+  </node>
+  <node concept="1TIwiD" id="3ZyoZu4M9cR">
+    <property role="1pbfSe" value="995428562" />
+    <property role="3GE5qa" value="dijagram_dekompozicije" />
+    <property role="TrG5h" value="ProcesRefTokRefInterfejsRef" />
+    <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
+    <node concept="1TJgyj" id="3ZyoZu4M9cS" role="1TKVEi">
+      <property role="20lmBu" value="reference" />
+      <property role="20kJfa" value="interfejs_ref" />
+      <ref role="20lvS9" node="2LqdYJg8Hk$" resolve="Interfejs" />
+    </node>
+    <node concept="1TJgyj" id="3ZyoZu4M9cU" role="1TKVEi">
+      <property role="20lmBu" value="reference" />
+      <property role="20kJfa" value="proces_ref" />
+      <ref role="20lvS9" node="2LqdYJg8Hku" resolve="Proces" />
+    </node>
+    <node concept="1TJgyj" id="3ZyoZu4M9cX" role="1TKVEi">
       <property role="20lmBu" value="reference" />
       <property role="20kJfa" value="tok_podataka_ref" />
       <ref role="20lvS9" node="2LqdYJg8Hkx" resolve="TokPodatka" />

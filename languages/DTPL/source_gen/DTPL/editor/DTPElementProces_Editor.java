@@ -117,6 +117,7 @@ public class DTPElementProces_Editor extends DefaultNodeEditor {
     editorCell.setCellId("Collection_3cwz5i_e0");
     Style style = new StyleImpl();
     style.set(StyleAttributes.SELECTABLE, 0, false);
+    style.set(StyleAttributes.DRAW_BRACKETS, 0, true);
     editorCell.getStyle().putAll(style);
     editorCell.addEditorCell(this.createCollection_3cwz5i_a4a(editorContext, node));
     editorCell.addEditorCell(this.createCollection_3cwz5i_b4a(editorContext, node));

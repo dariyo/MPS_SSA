@@ -27,11 +27,13 @@ public class ActionAspectDescriptorImpl extends BaseActionAspectDescriptor imple
         case 4:
           return Collections.<NodeFactory>singletonList(new node_factories_InterfejsTokProces.NodeFactory_3195928371521635826());
         case 5:
+          return Collections.<NodeFactory>singletonList(new node_factories_ProcesRefTokRefInterfejsRef.NodeFactory_4603351683861949704());
+        case 6:
           return Collections.<NodeFactory>singletonList(new node_factories_ProcesTokInterfejs.NodeFactory_3195928371521749023());
         default:
       }
     }
     return Collections.<NodeFactory>emptyList();
   }
-  private static String[] stringSwitchCases_tpto26_a0a0a0c = new String[]{"DTPElementProces", "Dijagram", "DijagramKonteksta", "InterfejsRefTokRefProcesRef", "InterfejsTokProces", "ProcesTokInterfejs"};
+  private static String[] stringSwitchCases_tpto26_a0a0a0c = new String[]{"DTPElementProces", "Dijagram", "DijagramKonteksta", "InterfejsRefTokRefProcesRef", "InterfejsTokProces", "ProcesRefTokRefInterfejsRef", "ProcesTokInterfejs"};
 }
